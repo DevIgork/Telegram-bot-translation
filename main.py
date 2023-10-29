@@ -7,7 +7,7 @@ from pydub import AudioSegment
 
 
 
-TOKEN = "6020719509:AAEziDsJjyqDtz9ZcC0Pj7WumjdxKh9pc3o"
+TOKEN = "your toker"
 
 logging.basicConfig(level=logging.INFO)
 
